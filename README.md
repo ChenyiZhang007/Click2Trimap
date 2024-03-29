@@ -88,7 +88,7 @@ Matting Model: [AEMatter](https://mega.nz/file/7N4AEKrS#L4h3Cm2qLMMbwBGm1lyGOmVD
 
 ## To do list
 - [ ] Web UI
-- [ ] Large-scale training data
+- [ ] ...
 
 ## License
 The code is released under the MIT License. It is a short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. 
