@@ -1,0 +1,16 @@
+albumentations==0.5.2
+Cython==0.29.32
+easydict==1.9
+matplotlib==3.3.4
+mmcv==1.6.2
+numpy==1.24.4
+opencv_python==4.7.0.72
+opencv_python_headless==4.6.0.66
+Pillow==9.5.0
+PyYAML==6.0
+timm==0.6.11
+toml==0.10.2
+torchvision==0.11.2
+tqdm==4.66.1
+tensorboard==2.14.0
+einops==0.7.0
