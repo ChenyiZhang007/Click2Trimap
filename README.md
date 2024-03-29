@@ -53,7 +53,7 @@ pip3 install -r requirements.txt
 python3 demo.py --checkpoint-c2t='path to click2trimap checkpoint' --checkpoint-matting='path to matting model checkpoint'
 ```
 
-**Images can be found [here](https://github.com/Chenyi-Zhang1376/Click2Trimap/tree/main/testimages).**
+**Images can be found [here](https://github.com/ChenyiZhang007/Click2Trimap).**
 
 ## Guidelines of Clicking
 
