@@ -88,6 +88,7 @@ Matting Model: [AEMatter](https://mega.nz/file/7N4AEKrS#L4h3Cm2qLMMbwBGm1lyGOmVD
 
 ## To do list
 - [ ] Web UI
+- [ ] HuggingFace Demo
 - [ ] ...
 
 ## License
