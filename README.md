@@ -13,9 +13,9 @@ Georgia Tech & Picsart AI Research (PAIR) -->
     <a href="https://opensource.org/licenses/MIT">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
     </a>
-<!--     <a href="https://arxiv.org/pdf/2210.11006.pdf">
-        <img src="https://img.shields.io/badge/arXiv-2102.06583-b31b1b"/>
-    </a>     -->
+    <a href="https://arxiv.org/pdf/2404.00335.pdf">
+        <img src="https://img.shields.io/badge/arxiv-2404.00335-red"/>
+    </a>    
 </p>
 
 
@@ -95,6 +95,15 @@ Matting Model: [AEMatter](https://mega.nz/file/7N4AEKrS#L4h3Cm2qLMMbwBGm1lyGOmVD
 The code is released under the MIT License. It is a short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. 
 
 ## Citation
-
+```bibtex
+@misc{zhang2024learing,
+      title={Learing Trimaps via Clicks for Image Matting}, 
+      author={Chenyi Zhang and Yihan Hu and Henghui Ding and Humphrey Shi and Yao Zhao and Yunchao Wei},
+      year={2024},
+      eprint={2404.00335},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 ## Acknowledgement
 Our project is developed based on [RITM](https://github.com/saic-vul/ritm_interactive_segmentation), [SimpleClick](https://github.com/uncbiag/SimpleClick) and [AEMatter](https://github.com/QLYoo/AEMatter). Thanks for their nice demo GUI and wonderful work!
