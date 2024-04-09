@@ -97,7 +97,7 @@ The code is released under the MIT License. It is a short, permissive software l
 ## Citation
 ```bibtex
 @misc{zhang2024learing,
-      title={Learing Trimaps via Clicks for Image Matting}, 
+      title={Learning Trimaps via Clicks for Image Matting}, 
       author={Chenyi Zhang and Yihan Hu and Henghui Ding and Humphrey Shi and Yao Zhao and Yunchao Wei},
       year={2024},
       eprint={2404.00335},
